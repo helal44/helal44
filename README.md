@@ -1,6 +1,10 @@
 # Helal Abd Alla 
 ## 💫 About Me:
-🌱  hi I’m  Helal Abdalla a junior PHP web developer<br>🔭 I’m currently working as freelancer<br>👯 I’m looking to work in companies to learn more<br>🤝 I’m looking for help with find new jobs<br>💬 Ask me about  PHP web development track<br>
+<h3>🌱  Hi I’m  Helal Abdalla a junior PHP web developer</h3>
+<h4>🔭 I’m currently working as freelancer</h4>
+<h4>👯 I’m looking to work in companies to learn more</h4>
+<h4>🤝 I’m looking for help with find new jobs</h4>
+<h4>💬 Ask me about  PHP web development track</h4>
 
 
 ## 🌐 Socials:
